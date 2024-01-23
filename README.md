@@ -1,6 +1,6 @@
-# summative
+# A Mobile Blogspot
 
-A new Flutter project.
+A Summative Flutter Project.
 
 ## Getting Started
 
